@@ -1,15 +1,18 @@
-# Belajar-Dicoding
-Repository ini berisi pengalaman belajarku di dicoding
+# Belajar Dicoding
 
-17 Agusrus 2023
-Belajar kelas Belajar Dasar Git dengan Github (Progres 21%)
-
-* Belajar tentang apa itu Git, github dan alasan menggunakannya.
-
-* Belajar cara mengoperasikan git dan github.
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 
-18 Agustus 2023
+**14 Juni 2021**    
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**    
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
